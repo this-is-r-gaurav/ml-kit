@@ -1,5 +1,9 @@
+# ML Kit (Upgraded Version of [dl-docker](https://github.com/floydhub/dl-docker))
+
+[![Codefresh build status]( https://g.codefresh.io/api/badges/pipeline/thisisrgaurav/this-is-r-gaurav%2Fml-kit%2Fml-kit?type=cf-1)]( https://g.codefresh.io/public/accounts/thisisrgaurav/pipelines/this-is-r-gaurav/ml-kit/ml-kit)
+
 ## All-in-one Docker image for Deep Learning
-Here are Dockerfiles to get you up and running with a fully functional deep learning machine. It contains all the popular deep learning frameworks with CPU. The CPU version should work on Linux, Windows and OS X.
+Here is Dockerfile to get you up and running with a fully functional deep learning machine. It contains all the popular deep learning frameworks with CPU. The CPU version should work on Linux, Windows and OS X.
 If you are not familiar with Docker, but would still like an all-in-one solution, start here: [What is Docker?](#what-is-docker). If you know what Docker is, but are wondering why we need one for deep learning, [see this](#why-do-i-need-a-docker)
 
 ## Update 
